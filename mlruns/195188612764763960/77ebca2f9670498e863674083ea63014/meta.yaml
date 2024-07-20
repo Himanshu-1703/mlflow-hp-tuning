@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/195188612764763960/77ebca2f9670498e863674083ea63014/artifacts
+end_time: 1721508324826
+entry_point_name: ''
+experiment_id: '195188612764763960'
+lifecycle_stage: active
+run_id: 77ebca2f9670498e863674083ea63014
+run_name: powerful-frog-268
+run_uuid: 77ebca2f9670498e863674083ea63014
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721508110062
+status: 3
+tags: []
+user_id: himan
