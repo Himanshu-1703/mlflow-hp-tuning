@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364086415531699504/e1b1d94ff3014d14921fd61f2e2be282/artifacts
+end_time: 1721514544543
+entry_point_name: ''
+experiment_id: '364086415531699504'
+lifecycle_stage: active
+run_id: e1b1d94ff3014d14921fd61f2e2be282
+run_name: upbeat-hare-576
+run_uuid: e1b1d94ff3014d14921fd61f2e2be282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721514543498
+status: 3
+tags: []
+user_id: himan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364086415531699504/9b190918301248239f4083afcf28273b/artifacts
+end_time: 1721514535203
+entry_point_name: ''
+experiment_id: '364086415531699504'
+lifecycle_stage: active
+run_id: 9b190918301248239f4083afcf28273b
+run_name: sneaky-wolf-571
+run_uuid: 9b190918301248239f4083afcf28273b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721514534193
+status: 3
+tags: []
+user_id: himan

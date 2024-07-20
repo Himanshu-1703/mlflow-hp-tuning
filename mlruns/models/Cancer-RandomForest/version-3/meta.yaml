@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1721514418439
+current_stage: None
+description: ''
+last_updated_timestamp: 1721514418439
+name: Cancer-RandomForest
+run_id: c9332b552caf4f319c76658c22c8aac4
+run_link: ''
+source: mlflow-artifacts:/364086415531699504/c9332b552caf4f319c76658c22c8aac4/artifacts/Grid
+  Search
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/364086415531699504/c9332b552caf4f319c76658c22c8aac4/artifacts/Grid
+  Search
+user_id: null
+version: 3

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364086415531699504/27f23d05f4d241839ac9aa59ef79671e/artifacts
+end_time: 1721514512496
+entry_point_name: ''
+experiment_id: '364086415531699504'
+lifecycle_stage: active
+run_id: 27f23d05f4d241839ac9aa59ef79671e
+run_name: dazzling-smelt-595
+run_uuid: 27f23d05f4d241839ac9aa59ef79671e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721514511624
+status: 3
+tags: []
+user_id: himan
