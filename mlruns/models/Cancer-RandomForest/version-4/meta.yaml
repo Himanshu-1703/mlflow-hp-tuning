@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1721548366001
+current_stage: Staging
+description: This model is the best model output by grid search approach
+last_updated_timestamp: 1721549626707
+name: Cancer-RandomForest
+run_id: 01b37bd93c9042058400df734f8cc514
+run_link: ''
+source: mlflow-artifacts:/364086415531699504/01b37bd93c9042058400df734f8cc514/artifacts/Grid
+  Search
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/364086415531699504/01b37bd93c9042058400df734f8cc514/artifacts/Grid
+  Search
+user_id: null
+version: 4

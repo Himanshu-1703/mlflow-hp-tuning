@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364086415531699504/8862f0e4a808482a9508bec787ed3415/artifacts
+end_time: 1721548384120
+entry_point_name: ''
+experiment_id: '364086415531699504'
+lifecycle_stage: active
+run_id: 8862f0e4a808482a9508bec787ed3415
+run_name: HP Rank 15
+run_uuid: 8862f0e4a808482a9508bec787ed3415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721548383948
+status: 3
+tags: []
+user_id: himan
