@@ -13,7 +13,7 @@ To log any test metrics just import the metrics after the autolog statement and 
 Autologging also creates necessary plots according to the model type used - "regression" or "classification".
 Any plots created in the code after the autolog statement are also logged.
 
->[!Imp]  
+>[!IMPORTANT]  
 > There is no need to specifically call the `mlflow.start_run()` while autologging.
 
 ## HyperParameter Tuning
@@ -23,7 +23,7 @@ The Hyperparameter tuning runs are captured on mlflow through parent child runs.
 The **Parent Run** captures the information of the best parameters and the best estimator that has resulted from the tuning process.
 The **Child Runs** are all `nested` runs which are logged under the parent run and capture the information of the parameter combination and the associated metrics for that run
 
->[!Imp]  
+>[!NOTE]  
 >The parent run also logs the model, model artifacts and data.
 >It also captures the evaluation scores run on test data by the best estimator.
 
